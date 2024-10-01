@@ -15,16 +15,21 @@ body{
 img{
     width: auto;
     border-radius: 2px;
+    display: block;
 }
 
 p{
-    display: inline-block;
+    display:inline-flex;
     margin-top: 30px;
     margin-left: 19px;
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
 }
 
 .flexbox1{
-    display: flex;
+    display: inline;
     float: left;
-    margin: 5px;
+    margin: 15px;
+    
 }
