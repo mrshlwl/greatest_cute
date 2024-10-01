@@ -1,0 +1,30 @@
+body{
+    background-color: lavender;
+}
+
+.flexbox{
+    width: 400px;
+    height: 410px;
+    float: left;
+    margin: 5px;
+    border-radius: 13px;
+    display: flex;
+    position: sticky;
+}
+
+img{
+    width: auto;
+    border-radius: 2px;
+}
+
+p{
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 19px;
+}
+
+.flexbox1{
+    display: flex;
+    float: left;
+    margin: 5px;
+}
